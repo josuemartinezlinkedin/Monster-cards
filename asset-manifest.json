@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/josuemartinezlinkedin/Monster-cards/static/css/main.a5ad968d.chunk.css",
-    "main.js": "/josuemartinezlinkedin/Monster-cards/static/js/main.9e6330ab.chunk.js",
-    "main.js.map": "/josuemartinezlinkedin/Monster-cards/static/js/main.9e6330ab.chunk.js.map",
-    "runtime-main.js": "/josuemartinezlinkedin/Monster-cards/static/js/runtime-main.7d1adf7f.js",
-    "runtime-main.js.map": "/josuemartinezlinkedin/Monster-cards/static/js/runtime-main.7d1adf7f.js.map",
-    "static/js/2.3dfd3ca0.chunk.js": "/josuemartinezlinkedin/Monster-cards/static/js/2.3dfd3ca0.chunk.js",
-    "static/js/2.3dfd3ca0.chunk.js.map": "/josuemartinezlinkedin/Monster-cards/static/js/2.3dfd3ca0.chunk.js.map",
-    "static/js/3.a75f96e1.chunk.js": "/josuemartinezlinkedin/Monster-cards/static/js/3.a75f96e1.chunk.js",
-    "static/js/3.a75f96e1.chunk.js.map": "/josuemartinezlinkedin/Monster-cards/static/js/3.a75f96e1.chunk.js.map",
-    "index.html": "/josuemartinezlinkedin/Monster-cards/index.html",
-    "static/css/main.a5ad968d.chunk.css.map": "/josuemartinezlinkedin/Monster-cards/static/css/main.a5ad968d.chunk.css.map",
-    "static/js/2.3dfd3ca0.chunk.js.LICENSE.txt": "/josuemartinezlinkedin/Monster-cards/static/js/2.3dfd3ca0.chunk.js.LICENSE.txt"
+    "main.css": "/Monster-cards/static/css/main.a5ad968d.chunk.css",
+    "main.js": "/Monster-cards/static/js/main.9e6330ab.chunk.js",
+    "main.js.map": "/Monster-cards/static/js/main.9e6330ab.chunk.js.map",
+    "runtime-main.js": "/Monster-cards/static/js/runtime-main.54e1138d.js",
+    "runtime-main.js.map": "/Monster-cards/static/js/runtime-main.54e1138d.js.map",
+    "static/js/2.3dfd3ca0.chunk.js": "/Monster-cards/static/js/2.3dfd3ca0.chunk.js",
+    "static/js/2.3dfd3ca0.chunk.js.map": "/Monster-cards/static/js/2.3dfd3ca0.chunk.js.map",
+    "static/js/3.a75f96e1.chunk.js": "/Monster-cards/static/js/3.a75f96e1.chunk.js",
+    "static/js/3.a75f96e1.chunk.js.map": "/Monster-cards/static/js/3.a75f96e1.chunk.js.map",
+    "index.html": "/Monster-cards/index.html",
+    "static/css/main.a5ad968d.chunk.css.map": "/Monster-cards/static/css/main.a5ad968d.chunk.css.map",
+    "static/js/2.3dfd3ca0.chunk.js.LICENSE.txt": "/Monster-cards/static/js/2.3dfd3ca0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d1adf7f.js",
+    "static/js/runtime-main.54e1138d.js",
     "static/js/2.3dfd3ca0.chunk.js",
     "static/css/main.a5ad968d.chunk.css",
     "static/js/main.9e6330ab.chunk.js"
